@@ -62,12 +62,3 @@ Action-RPG prototype built in Unity 2022.3.53f1c1. The project features point-an
 ## Assets & Licensing
 - This repository uses Git LFS for large assets (.fbx, .png, .wav, .mp4, .zip, .asset, etc.). Ensure LFS is installed before cloning or pulling.
 - Third-party assets (e.g., hero packs, fonts) remain under their original licenses; review source packages before redistribution.
-
-## How to Extend
-- Add new enemies: create CharacterData_SO and AttackData_SO assets, assign to a prefab with CharacterStats and EnemyController.
-- Add items: create ItemData_SO (and UseableItemData_SO or weapon data), drop into InventoryData templates, and reference in pickups or loot tables.
-- Add quests: author QuestData_SO, wire into DialogueData_SO options via target IDs and quest references, and assign to QuestGiver dialogues.
-- Add dialogue branches: extend DialogueData_SO pieces and options; ensure option target IDs exist in the dialogueIndex.
-
-## Credits
-Authored as a graduation project. Replace this section with contributor names and asset attributions as needed.
