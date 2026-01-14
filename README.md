@@ -1,5 +1,5 @@
 # Poly Legends (Graduation Project)
-
+https://www.bilibili.com/video/BV1iar4B6E9D/?spm_id_from=333.1387.homepage.video_card.click&vd_source=459b9d328158060b3e8b9881ead4cd51
 Action-RPG prototype built in Unity 2022.3.53f1c1. The project features point-and-click navigation, stat-based combat, quest and dialogue systems, inventory with drag-and-drop equipment, scene transitions with save/load, and lightweight UI for health/XP and quest tracking.
 
 **Editor version**: 2022.3.53f1c1 (LTS)  
