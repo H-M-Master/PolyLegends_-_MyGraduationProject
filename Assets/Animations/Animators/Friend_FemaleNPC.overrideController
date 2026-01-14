@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Friend_FemaleNPC
+  m_Controller: {fileID: 9100000, guid: ea85fb44639d2a24fb57f8e3a2ec1e5f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a3010b0fc7044499ad34afdf5326f623, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: f71a08b9d6ba1d5469a8d0f3c81a3579, type: 2}
